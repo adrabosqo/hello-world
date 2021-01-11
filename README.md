@@ -1,2 +1,3 @@
 # hello-world
-First of it's kind
+
+Hello there, i like to learn
